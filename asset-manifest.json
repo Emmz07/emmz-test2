@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emmz-test2/static/css/main.79c3ead1.css",
+    "main.js": "/emmz-test2/static/js/main.26233781.js",
+    "static/media/pic2.jpg": "/emmz-test2/static/media/pic2.154f9a315203bd1415be.jpg",
+    "static/media/robvid22.mp4": "/emmz-test2/static/media/robvid22.237f035d14347fc9e69c.mp4",
+    "index.html": "/emmz-test2/index.html",
+    "main.79c3ead1.css.map": "/emmz-test2/static/css/main.79c3ead1.css.map",
+    "main.26233781.js.map": "/emmz-test2/static/js/main.26233781.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79c3ead1.css",
+    "static/js/main.26233781.js"
+  ]
+}
